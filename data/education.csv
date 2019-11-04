@@ -1,0 +1,29 @@
+id,degree_type,major
+1,undergraduate,mathematics
+2,undergraduate,NA
+3,undergraduate,medicine
+3,graduate,computer science
+4,undergraduate,computer science
+5,undergraduate,mathematics
+5,graduate,mathematics
+6,undergraduate,NA
+7,undergraduate,law
+8,undergraduate,mathematics
+9,undergraduate,computer science
+10,undergraduate,computer science
+10,graduate,medicine
+11,undergraduate,mathematics
+12,undergraduate,mathematics
+12,graduate,NA
+13,undergraduate,law
+14,undergraduate,medicine
+14,graduate,business
+15,undergraduate,business
+15,graduate,business
+16,undergraduate,law
+17,undergraduate,NA
+17,graduate,business
+18,undergraduate,business
+19,undergraduate,computer science
+19,graduate,law
+20,undergraduate,mathematics
